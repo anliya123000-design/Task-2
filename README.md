@@ -13,6 +13,8 @@ tb_soc.v – Testbench applying reset, write, and readback stimulus
 
 tb_soc.vcd – Required output
 
+terminal output.
+
 OUTPUT OBTAINED.
 
 At Time=0, GPIO output was 00000000 
