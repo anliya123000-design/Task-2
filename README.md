@@ -13,6 +13,8 @@ tb_soc.v – Testbench applying reset, write, and readback stimulus
 
 tb_soc.vcd – Required output
 
+waveform.
+
 terminal output.
 
 OUTPUT OBTAINED.
