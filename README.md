@@ -11,8 +11,6 @@ soc_wrapper.v – Wrapper module integrating GPIO IP
 
 tb_soc.v – Testbench applying reset, write, and readback stimulus
 
-Makefile – Automation for compilation and simulation (make sim_run)
-
 tb_soc.vcd – Required output
 
 OUTPUT OBTAINED.
